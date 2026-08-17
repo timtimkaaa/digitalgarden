@@ -11,14 +11,10 @@
             "id": "fa82604de5f81fae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "reference/example.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "example"
+              "title": "New tab"
             }
           }
         ]
@@ -190,6 +186,7 @@
   },
   "active": "fa82604de5f81fae",
   "lastOpenFiles": [
+    "reference/example.md",
     "notes/reference/example.md",
     "notes/memories/memory2.md",
     "notes/memories/memory1.md",
